@@ -14,7 +14,7 @@ In 1668, John Wilkins - an English natural philosopher- proposed a universal lan
 The essay presents a classification scheme composed of elementary building to refer to every possible thing and notion of the universe. The classification scheme comprises _Generas_, which are divided into _Differences_, which are in turn divided into _Species_. By combining the elements of the classification scheme at the different levels you get an 4-letters Character representing a concept: 2 letters from the Genera, 1 from the Difference, and 1 from the Specie. 
 For example, __flame__ is represented by the Character __deba__. The _de_ for elements, the _b_ for the fire, and the _a_ for a part of it. What if you need to represent __a drop of water__? Just replace the _b_ (fire) for the _t_ (water): __deta__ represents a part of the water element.
 
-These examples demonstrate the the Wilkins’ approach for an universal language was to create a systematic and logical language where the structure of the word convey both its meaning and relationship with other concepts.
+These examples demonstrate the Wilkins’ approach for an universal language was to create a systematic and logical language where the structure of the word convey both its meaning and relationship with other concepts.
 
 At that stage, I couldn’t avoid the temptation of tracing a link between this essay from SXVII and the current medical terminologies.
 
